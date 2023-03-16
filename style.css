@@ -1,0 +1,87 @@
+body{
+    font-family: Arial, Helvetica, sans-serif;
+    margin: 10px;
+    background-color: #9AEBA3;
+}
+
+
+#part{
+    font-size: 25px;
+    color:white;
+    text-align:center ;
+
+}
+h1{
+    text-align: center;
+    text-shadow: 1px 1px 10px  black ;
+    color: aliceblue;
+    
+}
+
+
+#box{
+margin:auto  ;
+
+background-color:#13678A;
+border-radius: 13px;
+height: 40vh;
+width: 320px;
+
+box-shadow: 15px 15px 4px rgba(68, 64, 64, 0.493);
+border: 3px solid rgba(0, 0, 0, 0.242);
+}
+
+
+#inputs{
+color: aliceblue;
+text-shadow: 2px 2px 20px rgb(1, 251, 255);
+
+margin-top: 10px;
+height: px;
+width:300px;
+padding: px;
+}
+
+
+#lista{
+margin-left: -12px;
+color: aliceblue;
+text-shadow: 1px 1px 10px rgb(247, 239, 239);
+border: 1px solid rgb(0, 0, 0);
+width: 70px;
+border-radius: 12px;
+margin-left: 4px;
+background-color: #012030;
+
+}
+#upp{
+    border-radius: 8px;
+}
+#caixa{
+
+    font-size: 15px;
+    color: rgba(0, 255, 0, 0.768);
+    text-shadow: 0px 0px ;
+    margin-left: 10px;
+    
+    
+}
+button{
+    
+    border-radius: 10px;
+    
+    background-color: rgb(228, 245, 239);
+    padding: 3px;
+    margin-left: 250px;
+    align-items:center;
+    
+}
+h2{
+    margin-left: 20px;
+}
+#dia{
+    border-radius: 6px;
+}
+#link{
+    color:aliceblue
+}
