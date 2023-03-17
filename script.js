@@ -14,7 +14,7 @@ let dia = document.getElementById('dia').value
 if (dia == 'Segunda' || dia == 'Segunda feira'){
     document.getElementById('caixa').value = 'Ezequiel lava segunda-feira'
 }
-else if(dia == 'Terça' || dia == 'Terça  feira'){
+else if(dia == 'Terça' || dia == 'Terça feira'){
     document.getElementById('caixa').value = 'Jeremias lava terça-feira'
 }
 else if(dia == 'Quarta' || dia == 'Quarta feira'){
