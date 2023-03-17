@@ -11,22 +11,22 @@ function func(){
 
 let dia = document.getElementById('dia').value
 
-if (dia == 'segunda'){
+if (dia == 'Segunda' || dia == 'Segunda feira'){
     document.getElementById('caixa').value = 'Ezequiel lava segunda-feira'
 }
-else if(dia == 'terça'){
+else if(dia == 'Terça' || dia == 'Terça  feira'){
     document.getElementById('caixa').value = 'Jeremias lava terça-feira'
 }
-else if(dia == 'quarta'){
+else if(dia == 'Quarta' || dia == 'Quarta feira'){
     document.getElementById('caixa').value = ' Ezequiel lava quarta-feira'
 }
-else if (dia == 'quinta'){
+else if (dia == 'Quinta' || dia == 'Quinta feira'){
     document.getElementById('caixa').value = 'Jeremias lava quinta-feira'
 }
-else if(dia == 'sexta'){
+else if(dia == 'Sexta' || dia == 'Sexta feira'){
     document.getElementById('caixa').value = 'Lisa lava sexta-feira'
 }
-else if(dia == 'sabado'){
+else if(dia == 'Sábado'){
     document.getElementById('caixa').value = 'Sara lava sábado'
 }
 else{
